@@ -55,9 +55,9 @@ No single indicator proves that an email is malicious. Consider the full context
 Suggested repository structure:
 
 ```text
-phishing-email-analysis/
-├── README.md
-└── phishing_email_analysis_report.pdf
+Phishing-Email-Identifier/
+├── Phishing Email Identifier.pdf
+└── README.md
 ```
 
 Place the final PDF report in the repository and name it `phishing_email_analysis_report.pdf`, or update the filename above to match the file you upload.
